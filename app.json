@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tesseract",
+    "slug": "tesseract",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
